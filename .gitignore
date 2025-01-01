@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+# /build  # github pages doesn't build react, as per what I was able to learn the hard way
 
 # misc
 .DS_Store
